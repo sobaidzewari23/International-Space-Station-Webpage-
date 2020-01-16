@@ -1,0 +1,1 @@
+FLASK_APP=issproject/app.py flask run 
